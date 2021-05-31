@@ -1,0 +1,9 @@
+Modificações a serem realizadas no projeto:
+
+- Música de fundo e som de pulo -> OK
+- Alterar fundo -> OK
+- Menu inicialização
+- Menu de reset
+- Placar
+- Centralizar tela
+- Alterar Personagem e movimentação
